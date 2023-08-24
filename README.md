@@ -1,14 +1,14 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)]
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Anirudh Pandey</h1>
 <h3 align="center">A passionate frontend developer, a problem solver.</h3>
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudh716" alt="anirudh716" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **HTML/CSS**
+- 💬 Ask me about **HTML/CSS, JS, Data Structures**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
