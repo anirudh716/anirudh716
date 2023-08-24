@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh Pandey</h1>
 <h3 align="center">A passionate frontend developer, a problem solver.</h3>
 
-<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+<img align="center" alt="Coding" width="600" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anirudh716" alt="anirudh716" /></a> </p>
 
